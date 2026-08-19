@@ -5,7 +5,8 @@
 
 ## Analyze
 Site #1 https://instructure.charlotte.edu/eportfolios/4880/assignment-2
-After reviewing the engineering portfolio found at the URL, the following is an assessment of its effectiveness.
+
+After reviewing this engineering portfolio found at the above URL, the following is an assessment of its effectiveness.
 
 -Navigability: This site is very navigable. Locating projects and pages was straightforward, and links were immediately present upon reaching the landing page. These links functioned as intended, and a link back to the landing page was always present. This site was very user-friendly on a computer; I cannot comment if this statement would hold true on a mobile device.
 
