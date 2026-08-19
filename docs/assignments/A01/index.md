@@ -4,7 +4,7 @@
 
 
 ## Analyze
-Site #1 https://instructure.charlotte.edu/eportfolios/4880/assignment-2
+Porfolio #1 https://instructure.charlotte.edu/eportfolios/4880/assignment-2
 
 After reviewing this engineering portfolio found at the above URL, the following is an assessment of its effectiveness.
 
@@ -15,6 +15,9 @@ After reviewing this engineering portfolio found at the above URL, the following
 -Evidence of Reasoning: This portfolio included the author's thought processes and design decisions that were made. This includes problems that were encountered in the design and validation phases, as well as the substitutions that were made. One example of this can be found in A2 of the portfolio. The author solved the truss he had designed. This truss happened to have zero-force members. This led him to conclude that his truss could be improved. He documented his redesigning process as well as solving the truss again to prove that the new design had fewer components and still met the criteria. These explanations of the thought process show the author had well-thought-out reasoning for his design decisions.
 
 -Professional Tone: A professional tone was used throughout, but the author could have improved the professionalism by removing some casual phrases. The author used phrases such as figure, element, article, numerical, and other engineering terminology throughout the portfolio. However, the author also used phrases such as "I stuck with," "So Strong," and "Surely not the last." While not unacceptable, some of these could have been reworded to use more professional language. Overall, this portfolio is fairly professional but has room for improvement.
+
+Portfolio #2
+
 
 
 
