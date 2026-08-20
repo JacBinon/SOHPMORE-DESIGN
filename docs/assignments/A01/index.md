@@ -3,7 +3,8 @@
 ## Objective
 This assignment has three parts: Analyze, Decide, and Communicate. Each of these parts has multiple tasks within it.
 
-Part #1: Analyze
+
+-Part #1: Analyze-
 
 The Analyze section is split into two distinct parts: Task A and Task B.
 
@@ -25,6 +26,10 @@ Governing Model: What equation or physical principle governs its primary behavio
 Component Analysis: Take photographs of each component. Under each photograph, describe precisely how the geometry of that component affects its mechanical function. List at least two alternative solutions or devices that solve the same primary function. Identify one design decision the original engineer made—something you can see in the patent or geometry—and explain why you think they made that choice.
 
 This analysis must be specific enough that a mechanical engineer could understand the product without seeing a photograph.
+
+
+
+-Part #2: Decide-
 
 
 ## Analyze
