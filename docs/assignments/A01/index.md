@@ -88,17 +88,18 @@ In this image, the curvature of the scissor blades can be seen. This design choi
 
 A patent describing a similar device to the above scissors is Patent No. US20110302788A1, written by Donald Jason Milligan of Fulton, KY.
 
-This patent is specifically for safety scissors designed for cutting hair, with a special elliptical point to prevent accidental cuts to the user or the client. The inventor's motivation for creating this design is described in the patent. He explains that a popular way of adding texture to hair is to use the tips of the scissors facing toward the client. This poses a risk to the client because the tip could accidentally nick them while cutting. He states that hairdressers often place their hand between the tip of the scissors and the client, which can lead to accidental cuts to the hands of the hairdresser, creating health and safety concerns. This elliptical shape allows the tip of the scissors to be rounded and blunt while still allowing them to cut effectively at their ends.
+This patent is specifically for safety scissors designed for cutting hair, with a special elliptical point to prevent accidental cuts to the user or the client. The inventor's motivation for creating this design is described in the patent. He explains that a popular way of adding texture to hair is to use the tips of the scissors facing toward the client. This poses a risk to the client because the tip could accidentally nick them while cutting. He states that hairdressers often place their hand between the tip of the scissors and the client, which can lead to accidental cuts to the hands of the hairdresser, creating health and safety concerns. This elliptical shape allows the tip of the scissors to be rounded and blunt while still allowing them to cut effectively at their ends. Below is a picture of the described scissors from the patent. 
 
 <img width="1001" height="542" alt="image" src="https://github.com/user-attachments/assets/5a7b2228-29cc-4d92-b274-691dfc360aba" />
-Image from the above patent 
 
 2 other devices that could perform a similar job the hair cutting scissors include the electric trimmer (CN211615687U) or the safety razor (US7200942B2) both of these devices can cut and style hair much like the base purpose of hair scissors. 
 
 <img width="760" height="772" alt="image" src="https://github.com/user-attachments/assets/7164c748-998e-4fb9-a6fd-f6447fefbbd5" />
+
 Electric trimmer from Patent NO.CN211615687U
 
 <img width="764" height="491" alt="image" src="https://github.com/user-attachments/assets/83e069ba-f12f-4427-8b76-12b6e367c3ea" />
+
 Safety scissors from Patent NO.US7200942B2
 
 
