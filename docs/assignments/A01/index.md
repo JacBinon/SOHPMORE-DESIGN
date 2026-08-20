@@ -63,7 +63,7 @@ Professional Tone: A professional tone was sparingly used in this portfolio. The
 
 
 Task B- Product Analysis
--The product I have chosen is a pair of scissors. Patent Link: https://patentimages.storage.googleapis.com/31/7e/02/593ba0285c4242/US20110302788A1.pdf
+-The product I have chosen is a pair of scissors.
 
 The primary function of this device is to cut material, more specifically hair. The scissors are closed by the hand of the user, and the two metal blades shear the often-thin material that is between the two blades. This is used to split the material between the blades into two separate parts. The relationship between the force applied by the user and the force at the point of cutting can be described by the equation:
 
@@ -83,6 +83,26 @@ The two blades of the scissors each have opposing bevels. The opposing bevels al
 
 <img width="1576" height="2100" alt="IMG_0744" src="https://github.com/user-attachments/assets/cbea723a-1426-416c-88dc-556445a23227" />
 In this image, the curvature of the scissor blades can be seen. This design choice ensures that the scissors only contact the material at one point along their length at a time. This means that the user is not shearing all of the material at once, but rather shearing it little by little. This reduces the force required to cut the material and reduces the forces acting on the blades. This curvature also adds a "preload" to the blades, forcing them together and ensuring that there is no gap at the point of the cut. A gap could cause thin and delicate materials to simply fold over the edge instead of being sheared.
+
+
+A pattent describing a simialr device is pattent NO. US 2011 0302788A1 written by Donald Jason Milligan, of Fulton, KY.
+this patent in particular is for safety scissors designed for cutting hair with a special elliptical point to prevent accidental cuts to the user or the client. The Inventos drive to create this design is described in the pattent. HE descibes that a popular way of adding texture to hair is to use the tips of the sisors facing in to the client. This poses a risk to the client as the tip could accidentialy nick them when cutting. He states that hair dresesrs often placed their hand in between the tip of the sisor sna dht client leading to accidental cuts on the hands of the haordresser reaining health and saefty concersns. This eliptical shape allows the tip of the sisors to be rounded and blunt while still cutting at their ends. 
+
+<img width="1001" height="542" alt="image" src="https://github.com/user-attachments/assets/5a7b2228-29cc-4d92-b274-691dfc360aba" />
+Image from the above patent 
+
+2 other devices that could perform a similar job the hair cutting scissors include the electric trimmer (CN211615687U) or the safety razor (US7200942B2) both of these devices can cut and style hair much like the base purpose of hair scissors. 
+
+<img width="760" height="772" alt="image" src="https://github.com/user-attachments/assets/7164c748-998e-4fb9-a6fd-f6447fefbbd5" />
+Electric trimmer from Patent NO.CN211615687U
+
+<img width="764" height="491" alt="image" src="https://github.com/user-attachments/assets/83e069ba-f12f-4427-8b76-12b6e367c3ea" />
+Safety scissors from Patent NO.US7200942B2
+
+
+
+
+
 
 
 
