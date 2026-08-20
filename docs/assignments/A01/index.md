@@ -74,11 +74,20 @@ This means the force applied to the cutting edge is proportional to the force th
 Below is a Picture of each component
 
 <img width="1576" height="2100" alt="IMG_0742" src="https://github.com/user-attachments/assets/306e7fdc-9be6-41ce-8b09-103d70ca7538" />
-Rivet holding the 2 blades together ascting as the main pivot 
+Rivet holding the 2 blades together. The rivet has a head larger than the shaft on both sides this allows the rivet to hold the 2 blades together while also creating a pivot for them to rotate arround.
+
+
 <img width="1576" height="2100" alt="IMG_0743" src="https://github.com/user-attachments/assets/9cf98679-3cc5-4e49-bdc7-39a8e21e1926" />
-The 2 blades of the scissors each with opposing bevels
+The two blades of the scissors each have opposing bevels. The opposing bevels allow the blades to be sharpened at their cutting edges. These bevels are located on opposite sides of the blades, allowing the sharpened edges to graze past one another. This creates concentrated stress on the material being cut and allows it to be sheared as the blades slide past one another. The blades have two holes, or loops, at one end and taper to a point on the other. These loops act as handles for the user's fingers to interact with and hold as they close the two blades together with their hands. The point on the scissors is designed this way because excess material is not needed near the end of the scissors. The blades widen toward the middle to allow room for a hole and the rivet that holds them together. The pointed ends also allow the scissors to reach into smaller areas while being used, adding to their functionality.
+
+
 <img width="1576" height="2100" alt="IMG_0744" src="https://github.com/user-attachments/assets/cbea723a-1426-416c-88dc-556445a23227" />
-Curvature scissor blades.
+In this image, the curvature of the scissor blades can be seen. This design choice ensures that the scissors only contact the material at one point along their length at a time. This means that the user is not shearing all of the material at once, but rather shearing it little by little. This reduces the force required to cut the material and reduces the forces acting on the blades. This curvature also adds a "preload" to the blades, forcing them together and ensuring that there is no gap at the point of the cut. A gap could cause thin and delicate materials to simply fold over the edge instead of being sheared.
+
+
+
+
+
 
 
 
