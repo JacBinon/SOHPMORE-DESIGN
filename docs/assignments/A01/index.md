@@ -74,6 +74,9 @@ This means the force applied to the cutting edge is proportional to the force th
 Below is a Picture of each component
 
 <img width="1576" height="2100" alt="IMG_0742" src="https://github.com/user-attachments/assets/306e7fdc-9be6-41ce-8b09-103d70ca7538" />
+<img width="1576" height="2100" alt="IMG_0743" src="https://github.com/user-attachments/assets/9cf98679-3cc5-4e49-bdc7-39a8e21e1926" />
+<img width="1576" height="2100" alt="IMG_0744" src="https://github.com/user-attachments/assets/cbea723a-1426-416c-88dc-556445a23227" />
+
 
 
 ## Decide
