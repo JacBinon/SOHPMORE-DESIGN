@@ -1,10 +1,34 @@
 # ASSIGNMENT #1
 
 ## Objective
+This assignment has three parts: Analyze, Decide, and Communicate. Each of these parts has multiple tasks within it.
+
+Part #1: Analyze
+
+The Analyze section is split into two distinct parts: Task A and Task B.
+
+Task A: The goal of Task A is to find two engineering portfolios similar to the type of portfolio we are trying to create with this website. We will analyze these portfolios to gain a better understanding of what our own sites should look like. One of these sites must be hosted on GitHub.
+
+We are instructed to analyze the portfolios based on four criteria:
+
+Navigability: Can a reader locate any specific assignment or piece of work in under 60 seconds?
+Reproducibility: Does the documentation contain enough information that a colleague could reproduce the work without asking a question?
+Evidence of Reasoning: Does the portfolio show how decisions were made, or only what the final answer was?
+Professional Tone: Does the language meet the standard of a document you would hand to an employer?
+
+Our analysis must use "engineering language" and must be specific enough to defend any ambiguous language used.
+
+Task B: The instructions for Task B state that we must find a physical object that is mostly mechanical and has three or fewer components. We then use Google Patents to locate a patent for the product. Lastly, we analyze the product according to the following directions, documenting the information in our portfolio.
+
+Primary Function: What is the primary function of this product? State it as an engineering function: What mechanical task does it perform? State it precisely, rather than as a consumer description.
+Governing Model: What equation or physical principle governs its primary behavior? State the model and identify its variables. State one assumption that makes the model valid for this product.
+Component Analysis: Take photographs of each component. Under each photograph, describe precisely how the geometry of that component affects its mechanical function. List at least two alternative solutions or devices that solve the same primary function. Identify one design decision the original engineer made—something you can see in the patent or geometry—and explain why you think they made that choice.
+
+This analysis must be specific enough that a mechanical engineer could understand the product without seeing a photograph.
 
 
 ## Analyze
-Portfolio #1 https://instructure.charlotte.edu/eportfolios/4880/welcome
+Task A- Portfolio Review #1 https://instructure.charlotte.edu/eportfolios/4880/welcome
 
 After reviewing this engineering portfolio found at the above URL, the following is an assessment of its effectiveness.
 
@@ -16,7 +40,7 @@ After reviewing this engineering portfolio found at the above URL, the following
 
 -Professional Tone: A professional tone was used throughout, but the author could have improved the professionalism by removing some casual phrases. The author used phrases such as figure, element, article, numerical, and other engineering terminology throughout the portfolio. However, the author also used phrases such as "I stuck with," "So Strong," and "Surely not the last." While not unacceptable, some of these could have been reworded to use more professional language. Overall, this portfolio is fairly professional but has room for improvement.
 
-Portfolio #2 https://aocb.github.io/?utm_source=chatgpt.com
+Task A- Portfolio Review #2 https://aocb.github.io/?utm_source=chatgpt.com
 
 After reviewing this engineering portfolio found at the above URL, the following is an assessment of its effectiveness.
 
@@ -28,7 +52,7 @@ Evidence of Reasoning: As previously stated in the Reproducibility section, this
 
 Professional Tone: A professional tone was sparingly used in this portfolio. The author's landing page starts with a large font reading "Hello World," which is a somewhat casual start for a professional portfolio. The author's paragraphs read more like a casual conversation, using phrases such as "Some of my other interests include" while listing unrelated hobbies, "My goal is to make cars," and "Please, look around and stay a while." These could be rewritten to sound more professional and include more engineering terminology and professional grammar. I feel this site is not very professional in terms of the grammar and phrases used.
 
-
+Task B- Product Analysis
 
 ## Decide
 
