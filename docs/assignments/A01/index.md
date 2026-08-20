@@ -100,7 +100,7 @@ Electric trimmer from Patent NO.CN211615687U
 
 <img width="764" height="491" alt="image" src="https://github.com/user-attachments/assets/83e069ba-f12f-4427-8b76-12b6e367c3ea" />
 
-Safety scissors from Patent NO.US7200942B2
+Safety Razor from Patent NO.US7200942B2
 
 
 
