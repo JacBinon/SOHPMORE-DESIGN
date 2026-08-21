@@ -32,29 +32,29 @@ MEGR-2156-7-template/
 │   └── assignments/
 │       ├── A01 Professional Portfolio/
 │       │   └── index.md        <- A1: Build Your Professional Portfolio
-│       ├── A02/
+│       ├── A02 Truss Stress Analysis/
 │       │   └── index.md        <- A2: Truss Stress Analysis
-│       ├── A03/
+│       ├── A03 Parametric Design and FEA/
 │       │   └── index.md        <- A3: Parametric Design and FEA
-│       ├── A04/
+│       ├── A04 Motor Mount/
 │       │   └── index.md        <- A4: Motor Mount
-│       ├── A05/
+│       ├── A05 Bracket Stress/
 │       │   └── index.md        <- A5: Bracket Stress
-│       ├── A06/
+│       ├── A06 Bracket Drawing/
 │       │   └── index.md        <- A6: Bracket Drawing
-│       ├── A07/
+│       ├── A07 Bracket FEA/
 │       │   └── index.md        <- A7: Bracket FEA
-│       ├── A08/
+│       ├── A08 Gear Box/
 │       │   └── index.md        <- A8: Gear Box
-│       ├── A09/
+│       ├── A09 Pulley System/
 │       │   └── index.md        <- A9: Pulley System
 │       ├── A09x-concept-selection/
 │       │   └── index.md        <- A9x: Pugh Matrix — Gear vs. Pulley vs. Lead Screw
-│       ├── A10/
+│       ├── A10 Lead Screw Part 1/
 │       │   └── index.md        <- A10: Lead Screw Part 1
-│       ├── A11/
+│       ├── A11 Lead Screw Part 2/
 │       │   └── index.md        <- A11: Lead Screw Part 2 / Motor Selection
-│       └── A12/
+│       └── A12 [Final Assignment]/
 │           └── index.md        <- A12: [Final Assignment]
 ├── templates/
 │   └── assignment-template.md  <- Blank assignment page for reference (not published)
