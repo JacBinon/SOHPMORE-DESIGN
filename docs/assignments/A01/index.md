@@ -1,38 +1,3 @@
-# ASSIGNMENT #1
-
-## Objective
-This assignment has three parts: Analyze, Decide, and Communicate. Each of these parts has multiple tasks within it.
-
-
--Part #1: Analyze-
-
-The Analyze section is split into two distinct parts: Task A and Task B.
-
-Task A: The goal of Task A is to find two engineering portfolios similar to the type of portfolio we are trying to create with this website. We will analyze these portfolios to gain a better understanding of what our own sites should look like. One of these sites must be hosted on GitHub.
-
-We are instructed to analyze the portfolios based on four criteria:
-
-Navigability: Can a reader locate any specific assignment or piece of work in under 60 seconds?
-Reproducibility: Does the documentation contain enough information that a colleague could reproduce the work without asking a question?
-Evidence of Reasoning: Does the portfolio show how decisions were made, or only what the final answer was?
-Professional Tone: Does the language meet the standard of a document you would hand to an employer?
-
-Our analysis must use "engineering language" and must be specific enough to defend any ambiguous language used.
-
-Task B: The instructions for Task B state that we must find a physical object that is mostly mechanical and has three or fewer components. We then use Google Patents to locate a patent for the product. Lastly, we analyze the product according to the following directions, documenting the information in our portfolio.
-
-Primary Function: What is the primary function of this product? State it as an engineering function: What mechanical task does it perform? State it precisely, rather than as a consumer description.
-Governing Model: What equation or physical principle governs its primary behavior? State the model and identify its variables. State one assumption that makes the model valid for this product.
-Component Analysis: Take photographs of each component. Under each photograph, describe precisely how the geometry of that component affects its mechanical function. List at least two alternative solutions or devices that solve the same primary function. Identify one design decision the original engineer made—something you can see in the patent or geometry—and explain why you think they made that choice.
-
-This analysis must be specific enough that a mechanical engineer could understand the product without seeing a photograph.
-
-
-
--Part #2: Decide-
-
-
-
 ## Analyze
 Task A- Portfolio Review #1 https://instructure.charlotte.edu/eportfolios/4880/welcome
 
