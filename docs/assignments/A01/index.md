@@ -111,10 +111,15 @@ Safety Razor from Patent NO.US7200942B2
 
 
 
-
-
-
 ## Decide
+
+Pt: 1 Homepage Identity 
+
+The homepage of this site is the first thing a reader will see. This homepage is designed to show visitors that this page is an engineering portfolio that focuses on documenting the work done in MEGR 2157. More specifically, this portfolio is meant to document the engineering design process, not just the final product. This landing page explains to the reader that this portfolio is organized around three main pillars: Analyze, Decide, and Communicate. These three areas are meant to support the engineering decisions that were made with the necessary calculations, models, data, and documentation. Additionally, the section explaining the semester arc is designed to explain to the reader how the projects referenced are designed to build on each other, furthering the author's understanding and skills in the field of engineering. All of this is designed to enable anyone to understand the contents, how to navigate them, and why they are significant.
+
+Pt:2 Intentional Customization
+
+
 
 
 ## Communicate
