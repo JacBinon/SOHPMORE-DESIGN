@@ -32,6 +32,7 @@ This analysis must be specific enough that a mechanical engineer could understan
 -Part #2: Decide-
 
 
+
 ## Analyze
 Task A- Portfolio Review #1 https://instructure.charlotte.edu/eportfolios/4880/welcome
 
@@ -115,12 +116,31 @@ Safety Razor from Patent NO.US7200942B2
 
 Pt: 1 Homepage Identity 
 
-The homepage of this site is the first thing a reader will see. This homepage is designed to show visitors that this page is an engineering portfolio that focuses on documenting the work done in MEGR 2157. More specifically, this portfolio is meant to document the engineering design process, not just the final product. This landing page explains to the reader that this portfolio is organized around three main pillars: Analyze, Decide, and Communicate. These three areas are meant to support the engineering decisions that were made with the necessary calculations, models, data, and documentation. Additionally, the section explaining the semester arc is designed to explain to the reader how the projects referenced are designed to build on each other, furthering the author's understanding and skills in the field of engineering. All of this is designed to enable anyone to understand the contents, how to navigate them, and why they are significant.
+The homepage of this site is the first thing a reader will see. This homepage is designed to show visitors that this page is an engineering portfolio that focuses on documenting the work done in MEGR 2157. More specifically, this portfolio is meant to document the engineering design process, not just the final product. This landing page explains to the reader that this portfolio is organized around three main pillars: Analyze, Decide, and Communicate. These three areas are meant to support the engineering decisions that were made with the necessary calculations, models, data, and documentation. Additionally, the section explaining the semester rigor to explain to the reader how the projects referenced are designed to build on each other, furthering the author's understanding and skills in the field of engineering. All of this is designed to enable anyone to understand the contents, how to navigate them, and why they are significant.
 
-Pt:2 Intentional Customization
+Pt. 2: Intentional Customizations
 
+Renaming the assignment links could prove beneficial for attracting potential employers and other engineers to further explore this portfolio. Changing the names from simply “A#” to instead state the assignment number and the name of the assignment would entice a reader to investigate the project more than a simple number would.
 
+Pt. 3: Documentation Standards
+
+Producing work that identifies each part of the question and supports it with good engineering practices and intentional reasoning will be paramount.
 
 
 ## Communicate
+
+-1. Jack Binon
+
+-2.
+I heard a quote once that stated, "Engineers have shaped the world of yesterday, define the world of today, and will build the world of tomorrow. As long as humanity continues to advance, engineering will remain at the center of that progress." There is no end to being an engineer. Everything you build, make, and discover will someday be replaced with something better. There is an infinite strive for betterment within engineering. This is what has drawn me to this profession.
+Everything we see in our daily life is because someone said this could be better and made it such. Being an engineer affords me the privilege to touch untold people through my work and leave a lasting impact on this earth. Engineering allows me to build upon the backs of all those who came before me and lay the steps for those who come after.
+This betterment extends to myself and my skills. Continuously striving to increase my capabilities and competence through continued learning. Constructing myself into an engineer who makes sound decisions, practices good engineering practice, and stands behind his work. I believe it is important to be proud of the work you do. If you can't stand behind it, then your job is not done.
+Being an engineer gives my brain immense freedom but comes with a substantial responsibility to check yourself. Not everything can afford a mistake.
+
+-3.
+Defending an engineering decision means proving you had a reason to do what you did. Ideally, this means proving you made the best decision and that your design is perfect; however, this is rarely the case. Defending your decisions means laying out all the criteria you had to meet, as well as all the constraints that threw your perfect design off its rails. A well-defended decision should have sound logic, complete calculations, and include the other options and why yours is better. You're not trying to say your design is perfect; you're trying to prove it was the best decision you could make.
+
+-4.
+I spent 5 hours on this project in 3 sittings.
+
 
