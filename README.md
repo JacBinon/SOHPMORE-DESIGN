@@ -30,7 +30,7 @@ MEGR-2156-7-template/
 │   ├── aboutme/
 │   │   └── index.md            <- About Me page
 │   └── assignments/
-│       ├── A01/
+│       ├── A01 Professional Portfolio/
 │       │   └── index.md        <- A1: Build Your Professional Portfolio
 │       ├── A02/
 │       │   └── index.md        <- A2: Truss Stress Analysis
