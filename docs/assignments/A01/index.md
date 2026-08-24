@@ -33,7 +33,7 @@ Task B- Product Analysis
 
 The primary function of this device is to cut material, more specifically hair. The scissors are closed by the hand of the user, and the two metal blades shear the often-thin material that is between the two blades. This is used to split the material between the blades into two separate parts. The relationship between the force applied by the user and the force at the point of cutting can be described by the equation:
 
-MA (Mechanical Advantage) = F input / F output
+MA (Mechanical Advantage) = F out / F in
 
 This means the force applied to the cutting edge is proportional to the force the user applies at a ratio equal to the mechanical advantage of the scissors. This mechanical advantage ratio changes throughout the length of the scissors, as scissors only cut at one point at a time along their length. This relationship assumes that the scissors are being treated as rigid bodies pivoting around a frictionless pivot, meaning there is no substantial deflection during cutting and no excessive friction in the scissors to decrease the force seen at the cutting point. This allows the scissors to be modeled as two ideal levers sharing a pivot.
 
