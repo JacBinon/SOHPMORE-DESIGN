@@ -85,11 +85,11 @@ The homepage of this site is the first thing a reader will see. This homepage is
 
 Pt. 2: Intentional Customizations
 
-Renaming the assignment links could prove beneficial for attracting potential employers and other engineers to further explore this portfolio. Changing the names from simply “A#” to instead state the assignment number and the name of the assignment would entice a reader to investigate the project more than a simple number would.
+I would change the assignment labels in the navigation from only displaying the assignment number to displaying both the assignment number and the assignment title. The template's original labels require a reader to select an assignment before knowing what subject or project it contains. Adding the assignment title allows a reader to identify the content of a page from the navigation menu. This change improves the site's navigability by allowing a reader to locate a specific type of work more efficiently. Additionally, this may hook a reader if they notice an assignment that they are interested in.
 
 Pt. 3: Documentation Standards
 
-Producing work that identifies each part of the question and supports it with good engineering practices and intentional reasoning will be paramount.
+For every assignment, I will explain the principles and assumptions of the given task, document the criteria and constraints and how they influenced my decisions, show the calculations and reasoning supporting my choices, and provide enough detail that my work can be fully understood.
 
 
 ## Communicate
@@ -103,7 +103,7 @@ This betterment extends to myself and my skills. Continuously striving to increa
 Being an engineer gives my brain immense freedom but comes with a substantial responsibility to check yourself. Not everything can afford a mistake.
 
 -3.
-Defending an engineering decision means proving you had a reason to do what you did. Ideally, this means proving you made the best decision and that your design is perfect; however, this is rarely the case. Defending your decisions means laying out all the criteria you had to meet, as well as all the constraints that threw your perfect design off its rails. A well-defended decision should have sound logic, complete calculations, and include the other options and why yours is better. You're not trying to say your design is perfect; you're trying to prove it was the best decision you could make.
+Defending an engineering decision means proving you had a reason to do what you did. Ideally, this means proving you made the best decision and that your design is perfect; however, this is rarely the case. Defending your decisions means laying out all the criteria you had to meet, as well as all the constraints that threw your perfect design off its rails. A well-defended decision should have sound logic, complete calculations, and include the other options and why yours is better. You're not trying to say your design is perfect; you're trying to prove it was the best decision you could make. I believe I understand how to defend an engineering decision, but I expect my execution to improve as my skills, habits, and knowledge base develop throughout this course.
 
 -4.
 I spent 5 hours on this project in 3 sittings.
