@@ -106,6 +106,6 @@ Being an engineer gives my brain immense freedom but comes with a substantial re
 Defending an engineering decision means proving you had a reason to do what you did. Ideally, this means proving you made the best decision and that your design is perfect; however, this is rarely the case. Defending your decisions means laying out all the criteria you had to meet, as well as all the constraints that threw your perfect design off its rails. A well-defended decision should have sound logic, complete calculations, and include the other options and why yours is better. You're not trying to say your design is perfect; you're trying to prove it was the best decision you could make. I believe I understand how to defend an engineering decision, but I expect my execution to improve as my skills, habits, and knowledge base develop throughout this course.
 
 -4.
-I spent 5 hours on this project in 3 sittings.
+I spent 5 hours on this project
 
 
