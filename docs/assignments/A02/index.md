@@ -55,6 +55,28 @@ To aid in organization I complied the Symbolic solutions for the internal forces
 <p align="center">
 <img width="467" height="177" alt="image" src="https://github.com/user-attachments/assets/2c467e7a-f510-4870-97c9-8d6207ca383c" />
 
+## Calculating Cross sectional Area 
+
+The next step of the design process was to calcualte the minumum cross sectioal area of highest force member. I knew that I need to create and epresion that combined yield stregth, saefty factor, area, and force. as this would use the 3 knons I had and leave me with one unknown. My first thought was to start by multiplying the force by the saefty factor. This may have gotten my the answer, but per asssignemnt insructon I needed to solve symbolicaly first so I crossed this work out. The equation I settled on is defined in the immage below. 
+
+<p align="center">
+<img width="430" height="187" alt="image" src="https://github.com/user-attachments/assets/63f4b767-083b-41c3-a3c4-053d17353032" />
+
+The assignent instructed me to use A500 Steel. Before I solved using that number I wasnted to ensure that my cad system had this material defined. Unfortualty soldiwoks did not. I susituted A500 With ASTM A36. This is another constrution grade od steel with lower yield stregth. I Chose a mettal with a lower yield stregth to ensure if this truss was contructed with the A500 material it would be stronger than designed ensuring it would wisthand the defined load. I used the properties deifned from solidowks for my caulations and used the greatest internal force found durring my precious calcualtions. I calcualted a minum corss sectioanl area of 437.5mm^2 would be required. 
+
+## Pin Calculations 
+
+The next step in designin this truss is to calcualte the shear loads of the pins that hold the pins togher. This sheat loading can ten be used to caculatoe the minumum coress sectioanl area of the pines with saefty factor. ONce more this required finding a expresion that comnined the known vlaues and leaft the area value as an unknwn. THe expression I derived is located in the picture below. 
+
+<p align="center">
+<img width="466" height="260" alt="image" src="https://github.com/user-attachments/assets/da6f1fa3-a6f9-443c-8128-3569aba0eda5" />
+
+Once the expresion was created I solved for the area using the saefty factor of 4, and shear stregnth provided in the assignment instructions. The shear strength and density vlaues proveided in the assignment dircetions were given in imperoal units. I converted these values to metric units to maintina a cohesive unit system across my calculations. I Used the value of 50KN for my max shear force as this was the largest force acting on any pin, this could be found at Pin A and Pin B. Completing these caluatlions gave me a value of 170.63MM^2 would be needed to saeftly support this truss. This value was then converte from an area value to a diameter value. The next step was to estemate the weight of all the pins in this truss. In order to get the pin lenghts I assumed that my Truss members would be squares and the pin would need to be double the width of the truss members to fully concect. This was then used to find the volume and therefore weight of one pin. Multiplying this value by 5 gave a weight of 274.6G for all 5 pins in the truss. 
+
+
+
+
+
 
 
 
