@@ -102,8 +102,9 @@ As seen in the above immage the estemated weight of the entire assembly is 12867
 
 
 ## Engineering Lessons 
+This assignment was a beneficial exercise in taking a design from start to finish. I had never applied yield strength and shear stress calculations throughout an entire design problem like this before, so it gave me a better understanding of how these calculations influence a design. Additionally, this exercise emphasized the advice from previous professors to keep an organized page and consistently double-check your work. A single mistake, such as using incorrect units or entering the wrong value into an equation, can derail an entire problem and lead to an inaccurate final design.
 
-
+Overall, this assignment helped reinforce the importance of accuracy, organization, and careful verification in engineering. It also showed me that completing the calculations is only one part of the design process; being able to clearly document and defend the decisions made throughout the process is equally important. I learned how making too broad of assumptions can have profound impacts on your calculated values. The biggest example of this was when I just assumed the truss members were square without accounting for the holes the pins make or the overlap of material at the pin joints.
 
 
 
