@@ -1,3 +1,4 @@
+[Sohpmpre design A2.zip](https://github.com/user-attachments/files/31603484/Sohpmpre.design.A2.zip)
 # A2 – Truss Stress Analysis
 
 ## Assignment Objectives
@@ -119,6 +120,8 @@ The last part of this assignment is to create a CAD model of the truss. As instr
 
 
 As seen in the above image, the estimated weight of the entire assembly is 12867.77 g. This comes out to approximately a 9 percent difference. I attribute this difference mostly to my CAD model accounting for the extra material required for the pin connections and the longer pins. I came to the realization that representing the weight in grams may not be the proper unit to use, as grams are a unit of mass. Converting these units to newtons would be more accurate and would make it simpler to account for the weight of the truss itself in the load calculations. This is something I need to ensure I pay attention to in the future. Fortunately, the load on the truss was given in the correct unit; otherwise, a complete recalculation would be needed.
+
+Below is a download link to the cad assembly.
 
 ## Engineering Lessons
 
