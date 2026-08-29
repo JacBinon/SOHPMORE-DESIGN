@@ -121,7 +121,8 @@ The last part of this assignment is to create a CAD model of the truss. As instr
 
 As seen in the above image, the estimated weight of the entire assembly is 12867.77 g. This comes out to approximately a 9 percent difference. I attribute this difference mostly to my CAD model accounting for the extra material required for the pin connections and the longer pins. I came to the realization that representing the weight in grams may not be the proper unit to use, as grams are a unit of mass. Converting these units to newtons would be more accurate and would make it simpler to account for the weight of the truss itself in the load calculations. This is something I need to ensure I pay attention to in the future. Fortunately, the load on the truss was given in the correct unit; otherwise, a complete recalculation would be needed.
 
-Below is a download link to the cad assembly.
+Below is a download link to the cad assembly:
+https://github.com/JacBinon/SOHPMORE-DESIGN/blob/main/docs/assignments/A02/Sohpmpre%20design%20A2.zip
 
 ## Engineering Lessons
 
@@ -142,3 +143,6 @@ In this truss, we have three unique members that have forces on them: BD/AE, BC/
 ## Failure Modes of Pins 
 
 The pins in this design will fail in shear. This is because the forces from the truss members act on the pins and create a shear force across the pins. Since the members are connected to the pins, the applied loads are transferred through the pins at the joints. If the shear stress in the pin exceeds the allowable shear stress of the material, the pin will begin to fail. According to the Machinery's Handbook, page 211, when calculating shear, a pin in single shear will fail at half the load of a pin in double shear. A simple way to decrease the likelihood of a failure of the pin is to place it in double shear instead of the single shear configuration that I modeled this truss with. The page also contains a diagram explaining what a shear load looks like, which depicts the exact loading case of the pins in question, further reinforcing that the pins will fail in shear. It is possible that the material containing the pin could fail before the pin shears. Further analysis of the truss geometry, materials, and construction would be needed to determine which would fail first.
+
+## Time Spent
+I started a stopwatch each time I started working on this assignment and spent approximately 5:30 on this assignment. 
