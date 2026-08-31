@@ -26,10 +26,10 @@ The following are the constraints given for the assignment:
 
 <p align="center">
 <img width="702" height="302" alt="image" src="https://github.com/user-attachments/assets/81ce9513-0628-42cc-be1e-0f92ac6e1efe" />
+<br/>
 
 
-
-# Design And Process
+# Design And Process<br/>
 
 ## Initial Truss Geometry Selection
 
@@ -37,7 +37,7 @@ The first thing I needed to do was decide what my truss was going to look like, 
 
 <p align="center">
 <img width="505" height="353" alt="image" src="https://github.com/user-attachments/assets/277c5027-8157-49aa-89b8-d0dbeb875ec1" />
-
+<br/>
 
 
 ## Truss Type Decision
@@ -50,7 +50,7 @@ To solve this truss and find its internal loads, I first needed to create a free
 
 <p align="center">
 <img width="507" height="312" alt="image" src="https://github.com/user-attachments/assets/79d2ef1d-35c3-4543-8f5c-52d2a29fc5ab" />
-
+<br/>
 
 
 After my model was created, I started by calculating the external loads acting on the truss. All of my calculations were done symbolically, and numbers were later plugged in per the assignment directions. This was done by defining my equilibrium equations in the X, Y, and Mo (moment) directions. Solving for these values allowed me to solve Joint B/A first, as there was now only 1 unknown remaining in the Y direction. It is likely that I could have solved this truss without finding the external forces; however, solving for them allowed me to more easily use the method of joints, which is my preferred way of solving trusses.
@@ -59,14 +59,14 @@ As previously stated, I started by solving Joint B/A. Joint B and Joint A are, f
 
 <p align="center">
 <img width="446" height="576" alt="image" src="https://github.com/user-attachments/assets/09f31d69-5d45-4673-9998-d67067ef301b" />
-
+<br/>
 
 
 To aid in organization, I compiled the symbolic solutions for the internal forces onto a new page and defined my known variables once again. I then solved these equations by inputting the expressions into my calculator. The magnitude and compression or tension of the force was then noted. I could have solved these equations by hand; however, using a calculator helps prevent any careless errors.
 
 <p align="center">
 <img width="467" height="177" alt="image" src="https://github.com/user-attachments/assets/2c467e7a-f510-4870-97c9-8d6207ca383c" />
-
+<br/>
 
 
 ## Calculating Cross-Sectional Area
@@ -75,7 +75,7 @@ The next step of the design process was to calculate the minimum cross-sectional
 
 <p align="center">
 <img width="430" height="187" alt="image" src="https://github.com/user-attachments/assets/63f4b767-083b-41c3-a3c4-053d17353032" />
-
+<br/>
 
 
 The assignment instructed me to use A500 Steel. Before I solved using that number, I wanted to ensure that my CAD system had this material defined. Unfortunately, SolidWorks did not. I substituted A500 with ASTM A36. This is another construction-grade steel with a lower yield strength. I chose a metal with a lower yield strength to ensure that if this truss was constructed with the A500 material, it would be stronger than designed, ensuring it would withstand the defined load. I used the properties defined by SolidWorks for my calculations and used the greatest internal force found during my previous calculations. I calculated that a minimum cross-sectional area of 437.5 mm^2 would be required.
@@ -86,7 +86,7 @@ The next step in designing this truss is to calculate the shear loads of the pin
 
 <p align="center">
 <img width="466" height="260" alt="image" src="https://github.com/user-attachments/assets/da6f1fa3-a6f9-443c-8128-3569aba0eda5" />
-
+<br/>
 
 
 Once the expression was created, I solved for the area using the safety factor of 4 and the shear strength provided in the assignment instructions. The shear strength and density values provided in the assignment directions were given in imperial units. I converted these values to metric units to maintain a cohesive unit system across my calculations. I used the value of 50 kN for my maximum shear force, as this was the largest force acting on any pin. This could be found at Pin A and Pin B. Completing these calculations gave me a value of 170.63 mm^2 that would be needed to safely support this truss. This value was then converted from an area value to a diameter value. The next step was to estimate the weight of all the pins in this truss. In order to get the pin lengths, I assumed that my truss members would be squares and the pin would need to be double the width of the truss members to fully connect. This was then used to find the volume and, therefore, weight of one pin. Multiplying this value by 5 gave a weight of 274.6 g for all 5 pins in the truss.
@@ -130,9 +130,9 @@ This assignment was a beneficial exercise in taking a design from start to finis
 
 Overall, this assignment helped reinforce the importance of accuracy, organization, and careful verification in engineering. It also showed me that completing the calculations is only one part of the design process; being able to clearly document and defend the decisions made throughout the process is equally important. I learned how making too broad of assumptions can have profound impacts on your calculated values. The biggest example of this was when I just assumed the truss members were square without accounting for the holes the pins make or the overlap of material at the pin joints.
 
-##Failure Modes of Truss Members
+## Failure Modes of Truss Members
 
-In this truss, we have three unique members that have forces on them: BD/AE, BC/CA, and DE. The members BD/AE and DE are both in tension. Members BC/CA are in compression. The members DC/CE are zero-force members and therefore will not be discussed in this section.
+In this truss, we have three unique members that have forces on them: BD/AE, BC/CA, and DE. The members BD/AE and DE are both in tension. Members BC/CA are in compression. The members DC/CE are zero-force members and therefore will not be discussed in this section.<br/>
 
 - Tension Members
   Members BD/AE are in tension. Because they are made of a low-carbon ASTM A36 steel, they will yield a large amount before fracturing. This steel has a low carbon content and will be in a soft, ductile state in a truss structure. If these members were made of a high-carbon steel and hardened, they would be more likely to fracture rather than undergo significant deformation. This failure mode is described almost verbatim on Baling Steel's webpage (https://baling-steel.com/a36-steel-composition/): "The modest percentage keeps the alloy soft enough to bend, hammer, or machine without expensive preparation. Because brittleness is all but ruled out, the plate absorbs fatigue and still stretches a bit before it finally breaks." To prevent this failure, the members in tension could be replaced by cables or another material that is better suited for tensile loading. Alternatively, increasing the safety factor would also decrease the chances of this failure occurring.
