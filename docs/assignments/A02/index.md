@@ -26,7 +26,7 @@ The following are the constraints given for the assignment:
 
 <p align="center">
 <img width="702" height="302" alt="image" src="https://github.com/user-attachments/assets/81ce9513-0628-42cc-be1e-0f92ac6e1efe" />
-<br/>
+</p>
 
 
 # Design And Process<br/>
@@ -37,7 +37,7 @@ The first thing I needed to do was decide what my truss was going to look like, 
 
 <p align="center">
 <img width="505" height="353" alt="image" src="https://github.com/user-attachments/assets/277c5027-8157-49aa-89b8-d0dbeb875ec1" />
-<br/>
+</p>
 
 
 ## Truss Type Decision
@@ -50,7 +50,7 @@ To solve this truss and find its internal loads, I first needed to create a free
 
 <p align="center">
 <img width="507" height="312" alt="image" src="https://github.com/user-attachments/assets/79d2ef1d-35c3-4543-8f5c-52d2a29fc5ab" />
-<br/>
+</p>
 
 
 After my model was created, I started by calculating the external loads acting on the truss. All of my calculations were done symbolically, and numbers were later plugged in per the assignment directions. This was done by defining my equilibrium equations in the X, Y, and Mo (moment) directions. Solving for these values allowed me to solve Joint B/A first, as there was now only 1 unknown remaining in the Y direction. It is likely that I could have solved this truss without finding the external forces; however, solving for them allowed me to more easily use the method of joints, which is my preferred way of solving trusses.
@@ -59,14 +59,14 @@ As previously stated, I started by solving Joint B/A. Joint B and Joint A are, f
 
 <p align="center">
 <img width="446" height="576" alt="image" src="https://github.com/user-attachments/assets/09f31d69-5d45-4673-9998-d67067ef301b" />
-<br/>
+</p>
 
 
 To aid in organization, I compiled the symbolic solutions for the internal forces onto a new page and defined my known variables once again. I then solved these equations by inputting the expressions into my calculator. The magnitude and compression or tension of the force was then noted. I could have solved these equations by hand; however, using a calculator helps prevent any careless errors.
 
 <p align="center">
 <img width="467" height="177" alt="image" src="https://github.com/user-attachments/assets/2c467e7a-f510-4870-97c9-8d6207ca383c" />
-<br/>
+</p>
 
 
 ## Calculating Cross-Sectional Area
@@ -75,7 +75,7 @@ The next step of the design process was to calculate the minimum cross-sectional
 
 <p align="center">
 <img width="430" height="187" alt="image" src="https://github.com/user-attachments/assets/63f4b767-083b-41c3-a3c4-053d17353032" />
-<br/>
+</p>
 
 
 The assignment instructed me to use A500 Steel. Before I solved using that number, I wanted to ensure that my CAD system had this material defined. Unfortunately, SolidWorks did not. I substituted A500 with ASTM A36. This is another construction-grade steel with a lower yield strength. I chose a metal with a lower yield strength to ensure that if this truss was constructed with the A500 material, it would be stronger than designed, ensuring it would withstand the defined load. I used the properties defined by SolidWorks for my calculations and used the greatest internal force found during my previous calculations. I calculated that a minimum cross-sectional area of 437.5 mm^2 would be required.
@@ -86,7 +86,7 @@ The next step in designing this truss is to calculate the shear loads of the pin
 
 <p align="center">
 <img width="466" height="260" alt="image" src="https://github.com/user-attachments/assets/da6f1fa3-a6f9-443c-8128-3569aba0eda5" />
-<br/>
+</p>
 
 
 Once the expression was created, I solved for the area using the safety factor of 4 and the shear strength provided in the assignment instructions. The shear strength and density values provided in the assignment directions were given in imperial units. I converted these values to metric units to maintain a cohesive unit system across my calculations. I used the value of 50 kN for my maximum shear force, as this was the largest force acting on any pin. This could be found at Pin A and Pin B. Completing these calculations gave me a value of 170.63 mm^2 that would be needed to safely support this truss. This value was then converted from an area value to a diameter value. The next step was to estimate the weight of all the pins in this truss. In order to get the pin lengths, I assumed that my truss members would be squares and the pin would need to be double the width of the truss members to fully connect. This was then used to find the volume and, therefore, weight of one pin. Multiplying this value by 5 gave a weight of 274.6 g for all 5 pins in the truss.
@@ -97,7 +97,7 @@ To approximate the weight of the truss, I first wanted to create an expression f
 
 <p align="center">
 <img width="707" height="599" alt="image" src="https://github.com/user-attachments/assets/c391ba39-8f5b-4e9c-aa4c-b4cff7d9f431" />
-
+</p>
 
 
 ## CAD Model
@@ -106,17 +106,17 @@ The last part of this assignment is to create a CAD model of the truss. As instr
 
 <p align="center">
 <img width="1138" height="482" alt="image" src="https://github.com/user-attachments/assets/6b9c27c3-fe21-4080-88c9-f1c02bb848ac" />
-
+</p>
 
 
 <p align="center">
 <img width="920" height="618" alt="image" src="https://github.com/user-attachments/assets/ed7e0247-deac-435a-9817-4200e2534139" />
-
+</p>
 
 
 <p align="center">
 <img width="1917" height="1033" alt="image" src="https://github.com/user-attachments/assets/ee911e63-5e1f-4cf8-8cea-dbf565757500" />
-
+</p>
 
 
 As seen in the above image, the estimated weight of the entire assembly is 12867.77 g. This comes out to approximately a 9 percent difference. I attribute this difference mostly to my CAD model accounting for the extra material required for the pin connections and the longer pins. I came to the realization that representing the weight in grams may not be the proper unit to use, as grams are a unit of mass. Converting these units to newtons would be more accurate and would make it simpler to account for the weight of the truss itself in the load calculations. This is something I need to ensure I pay attention to in the future. Fortunately, the load on the truss was given in the correct unit; otherwise, a complete recalculation would be needed.
