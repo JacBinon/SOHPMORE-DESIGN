@@ -132,5 +132,7 @@ My predictions were correct with the 2" diameter the length of the bar greatly i
 ## Time taken
 I estimate this assignment took about 3.5 hours. I am familiar with SolidWorks and FEA within it making the cad portion of this assignment easy. 
 
+## Link to CAD
+https://github.com/JacBinon/SOHPMORE-DESIGN/blob/main/docs/assignments/A03/Sophmore%20Design%20A3.SLDPRT
 
 
