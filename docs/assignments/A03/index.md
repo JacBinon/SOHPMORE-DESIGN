@@ -3,7 +3,7 @@
 # Objective
 The main objective of this assignment is to understand how load, geometry, and material properties affect the stiffness and deflection of a structural bar. I will design an aluminum bar with a circular cross section that meets a specified maximum axial deflection under a direct tensile load.
 
-I will use the axial deflection equation to determine the required length of the bar and then use parametric modeling in CAD to link the load, material properties, deflection, and dimensions to the final design. After creating the bar, I will use FEA to analyze its deflection and von Mises stress under the same loading conditions.
+I will use the deflection equation to determine the required length of the bar and then use parametric modeling in CAD to link the load, material properties, deflection, and dimensions to the final design. After creating the bar, I will use FEA to analyze its deflection and von Mises stress under the same loading conditions.
 
 Finally, I will compare the hand calculations to the FEA results to determine how closely they agree and evaluate whether the design meets the required strength and safety factor. The assignment will also show how changing parameters such as load, width, height, and thickness affects the resulting design.
 
