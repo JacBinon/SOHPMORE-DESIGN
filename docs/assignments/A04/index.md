@@ -92,6 +92,9 @@ Now that my deign was created I imported the motor into the assembly and mated i
 
 <img width="601" height="537" alt="image" src="https://github.com/user-attachments/assets/87cb7830-2a51-4575-b2cd-8eb716b87aeb" />
 
+Below is the link to my cad model
+
+
 # Drawing 
 
 I created a A sized drawing for my part below is an image of this and the link to the full pdf.
