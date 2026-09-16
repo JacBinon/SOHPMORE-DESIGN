@@ -102,6 +102,7 @@ https://github.com/JacBinon/SOHPMORE-DESIGN/blob/main/docs/assignments/A04/Drawi
 <p align="center">
 <img width="731" height="565" alt="image" src="https://github.com/user-attachments/assets/88793205-8d58-4b3b-b5a7-44caa1ed4fc1" />
 </p>
+
 # Time
 
 I estimate I spent 5 hours on this assignment. 
