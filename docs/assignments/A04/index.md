@@ -60,7 +60,47 @@ I started my cad model by creating a new assembly and importing the cad model of
 
 <img width="552" height="467" alt="image" src="https://github.com/user-attachments/assets/d5021d7f-2671-4ab2-8662-fdf56f4392a5" />
 
-After extruding this part, I moved on to Feature 2 and modled it in a similar fassion. 
+After extruding this part, I moved on to Feature 2 and modled it in a similar fassion. Creating a scetch on the bottom of feature 1 and then extruding.
+
+<img width="839" height="661" alt="image" src="https://github.com/user-attachments/assets/bae108b7-8168-410d-add8-0ac9374e01c0" />
+
+<img width="821" height="707" alt="image" src="https://github.com/user-attachments/assets/b84339a8-2418-4df8-95ab-fd54430bb6ca" />
+
+Next, I went back to feature 1 and sketched the holes needed for the motor to mount and shaft to protrude. I had to inset the motor in to feature one some to ensure a usable about of the shaft sicks past. I created a construction geometry and center lines to define the location of some holes for the hole wizard in SolidWorks. 
+
+<img width="867" height="628" alt="image" src="https://github.com/user-attachments/assets/b7374bb6-97c6-4b88-8402-ce25a35fb3e5" />
+
+<img width="554" height="560" alt="image" src="https://github.com/user-attachments/assets/572a936c-5c85-4c18-a3b4-e1d2f7b2f6b7" />
+
+After creating the screw clearence hoels for the motor it created some very sharp features where the holes intersected on of the indents that allow the motor to inset. I filleted these sharp points to improve ascetics and aid in maunfactuing the part. 
+
+<img width="718" height="572" alt="image" src="https://github.com/user-attachments/assets/5f71e9be-60a0-46fc-81fa-f32d406141ef" />
+
+Aditionaly I filleted the joint where feature 1 and feature 2 intersect to increase strength and prevent a stress concentration at this joint. 
+
+<img width="657" height="621" alt="image" src="https://github.com/user-attachments/assets/00cdd65f-eeea-4c13-ab7a-55c720fca74c" />
+
+With this design feature 1 takes up a lot of the top plane of feature 2. This became somewhat of a problem as there was no room for the forward 2 bolt holes. Because of this I decided to make these are blind holes with threads. This would allow the mount to still be mounted and prevent the need for nuts or other additional hardware during mounting. With threads like this this does limit the mount by requiring the bolts to be driven up from the bottom however with the motor installed this is the only direction the holes are accessible anyway. I chose to thread these holes as M4x0.7 at 10mm of debt. to ensure that that plastic can hold without tearing out I referenced and online thread pullout calculator. This calculated that each bolt threaded in at 10mm of depth into ABS can hold 1150 N of force. Our max load on the motor is only 300N therefore each bolt would be almost enough to hold the mount and keep our 3x safety factor. With 4 of these bolts installed this gives us a MAX tear out of 4600N or over a 15x saefty factor. 
+
+<img width="695" height="703" alt="image" src="https://github.com/user-attachments/assets/fc407319-d73e-4fa4-9afa-80b44cde284e" />
+
+<img width="902" height="680" alt="image" src="https://github.com/user-attachments/assets/253afbcc-9ea4-4391-bb8a-77cca6d3d4be" />
+
+Now that my deign was created I imported the motor into the assembly and mated it to the mount. This allowed me to verify that my holes lined up and that no part of the motor was conflicting the mount. 
+
+<img width="1045" height="584" alt="image" src="https://github.com/user-attachments/assets/b1f0646a-e91f-4465-aebe-90327b8c1fad" />
+
+<img width="601" height="537" alt="image" src="https://github.com/user-attachments/assets/87cb7830-2a51-4575-b2cd-8eb716b87aeb" />
+
+# Drawing 
+
+I created a A sized drawing for my part below is an image of this and the link to the full pdf.
+
+
+<img width="731" height="567" alt="image" src="https://github.com/user-attachments/assets/c61b0465-44d0-43c5-b4a9-db2c14d4e305" />
+
+
+
 
 
 
