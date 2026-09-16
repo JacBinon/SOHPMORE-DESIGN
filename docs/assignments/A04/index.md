@@ -95,10 +95,9 @@ Now that my deign was created I imported the motor into the assembly and mated i
 # Drawing 
 
 I created a A sized drawing for my part below is an image of this and the link to the full pdf.
-
+https://github.com/JacBinon/SOHPMORE-DESIGN/blob/main/docs/assignments/A04/Drawing%20A-4.pdf.
 
 <img width="731" height="567" alt="image" src="https://github.com/user-attachments/assets/c61b0465-44d0-43c5-b4a9-db2c14d4e305" />
-
 
 
 
