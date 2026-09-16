@@ -93,7 +93,7 @@ Now that my deign was created I imported the motor into the assembly and mated i
 <img width="601" height="537" alt="image" src="https://github.com/user-attachments/assets/87cb7830-2a51-4575-b2cd-8eb716b87aeb" />
 
 Below is the link to my cad model
-
+https://github.com/JacBinon/SOHPMORE-DESIGN/blob/main/docs/assignments/A04/A4%20Assembly.zip
 
 # Drawing 
 
@@ -102,6 +102,9 @@ https://github.com/JacBinon/SOHPMORE-DESIGN/blob/main/docs/assignments/A04/Drawi
 
 <img width="731" height="565" alt="image" src="https://github.com/user-attachments/assets/88793205-8d58-4b3b-b5a7-44caa1ed4fc1" />
 
+# Time
+
+I estimate I spent 5 hours on this assignment. 
 
 
 
