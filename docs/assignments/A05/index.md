@@ -27,14 +27,14 @@ After defining the dimensions, I created 2 distinct 3 view drawings. One used th
 # Analysis 
 4. Comparing the numbers all of the features required the dimensions from the stress equations, however for feature C the two were very close. The dimensions were within 60 thousandths of each other.
 5. One place that I made an error and caught it was while solving my stress equation on feature E. In the numerator I had the correct numbers, but in the denominator, I had the deflection numbers. Fortunately I caught this before solving and moving on. This would not have affected my math for any of the other features, but it may have caused the entire mount to fail under load.
-6. One assumption I made was assuming that the cylinder the strap on was a cantilever beam with the load on then tip. I chose this one over the distributed load to prevent failure in the event the strap slipped down the feature. If I were to choose the distributed load this feature would end up thinner. I decided it was best to design for the worst case scenario.
+6. One assumption I made was assuming that the cylinder the strap rests on was a cantilever beam with the load on then tip. I chose this one over the distributed load to prevent failure in the event the strap slipped down the feature. If I were to choose the distributed load this feature would end up thinner. I decided it was best to design for the worst-case scenario.
 
 # Fits Feature
-I started designing the linkage by defining my stress and deflection equations as well as hole sizes. I also defined the center-to-center distance of these 2 holes as 2". Below is my work for this feature. I only solved for the minimum cross-sectional area not all of the dimensions of this piece as the directions did not call for them. I assumed the smalless cross sectional are would occur next to each of the holes. 
+I started designing the linkage by defining my stress and deflection equations as well as hole sizes. I also defined the center-to-center distance of these 2 holes as 2". Below is my work for this feature. I only solved for the minimum cross-sectional area not all of the dimensions of this piece as the directions did not call for them. I assumed the smallest cross sectional are would occur next to each of the holes. 
 
 <img width="1106" height="1507" alt="image" src="https://github.com/user-attachments/assets/66d442cb-07b4-4960-831b-512025098263" />
-
-For defining the fits, I consulted the machineries handbook. I chose a RC4 fit for the feature A interface as this was one of the closer running fits. This would help prevent excessive slop in the interface and hopefully prevent the linkage form sliding off as easily under load. 
+F
+For defining the fits, I consulted the Machinery's Handbook. I chose a RC4 fit for the feature A interface as this was one of the closer running fits. This would help prevent excessive slop in the interface and hopefully prevent the linkage from sliding off as easily under load. 
 
 <img width="969" height="560" alt="image" src="https://github.com/user-attachments/assets/5299580e-4a8e-469c-b064-c0bc7ba5a80c" />
 
