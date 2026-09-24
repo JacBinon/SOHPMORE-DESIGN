@@ -4,12 +4,12 @@
 The objective of this assignment is to design a bracket capable of safely supporting a horizontal load while applying principles of statics, strength of materials, stress analysis, and deflection. The bracket will be divided into individual features, and each feature will be analyzed using free body diagrams, known and unknown variables, assumptions, and algebraic models to determine the required dimensions. A safety factor of 4 will be used with a selected metal material, and the applied load will be traced through each feature so that the reaction forces from one feature can be used as the loading conditions for the next. Both strength and stiffness will be considered, with stress analysis used to prevent material failure and stiffness analysis used to keep deflection within the specified 0.005 in limit. The results from both analyses will then be compared to determine which requirement governs the final dimensions. This assignment is intended to demonstrate how fundamental engineering equations can be used to develop a safe and functional component from a conceptual design while considering material properties, loading conditions, assumptions, and design constraints.
 
 # Defining the Problem 
-I started by drawing out what I needed to design and defined my material. I chose 6061T6 as I have used it before and it's easier to machine than for example titanium. 
+I started by drawing out what I needed to design and defined my material. I chose 6061-T6 as I have worked with the material before and it's easier to machine than titanium. 
 
 <img width="735" height="962" alt="image" src="https://github.com/user-attachments/assets/8c15ebec-1a2e-485d-b4a3-c1351b9ac3b8" />
 
 # Strength and Deflection Calculations
-After defining my problem, I then started on all the math for this assignment. I initially started with part E but realized I needed dimensions defined by other parts to finish. After taking another look at the problem I then started with A then B then D, E, and finished with C. My assumptions and rational for models are included in the paperwork for each feature. 
+After defining my problem, I then started on the math for this assignment. I initially started with part E but realized I needed dimensions defined by other parts to finish. After taking another look at the problem I then started with A then B then D, E, and finished with C. My assumptions and rational for models are included in the paperwork for each feature. 
 
 <img width="932" height="1212" alt="image" src="https://github.com/user-attachments/assets/069ca8c3-f548-421b-9415-339b3f33dd68" />
 <img width="770" height="1006" alt="image" src="https://github.com/user-attachments/assets/08fa4f41-3542-4ff8-b83d-6b5a00c946b2" />
@@ -26,7 +26,7 @@ After defining the dimensions, I created 2 distinct 3 view drawings. One used th
 
 # Analysis 
 4. Comparing the numbers all of the features required the dimensions from the stress equations, however for feature C the two were very close. The dimensions were within 60 thousandths of each other.
-5. One place that I made and error and caught it was while solving my stress equation on feature E. In the numerator I had the correct numbers, but in the denominator, I had the deflection numbers. Fortunately I caught this before solving and moving on. This would not have affected my math for any of the other features, but it may have caused the entire mount to fail under load.
+5. One place that I made an error and caught it was while solving my stress equation on feature E. In the numerator I had the correct numbers, but in the denominator, I had the deflection numbers. Fortunately I caught this before solving and moving on. This would not have affected my math for any of the other features, but it may have caused the entire mount to fail under load.
 6. One assumption I made was assuming that the cylinder the strap on was a cantilever beam with the load on then tip. I chose this one over the distributed load to prevent failure in the event the strap slipped down the feature. If I were to choose the distributed load this feature would end up thinner. I decided it was best to design for the worst case scenario.
 
 # Fits Feature
