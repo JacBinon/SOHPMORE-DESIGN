@@ -5,6 +5,7 @@ The objective of this assignment is to design a bracket capable of safely suppor
 
 # Defining the Problem 
 I started by drawing out what I needed to design and defined my material. I chose 6061T6 as I have used it before and it's easier to machine than for example titanium. 
+
 <img width="735" height="962" alt="image" src="https://github.com/user-attachments/assets/8c15ebec-1a2e-485d-b4a3-c1351b9ac3b8" />
 
 # Strength and Deflection Calculations
