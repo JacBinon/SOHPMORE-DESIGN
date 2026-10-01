@@ -68,6 +68,11 @@ Take a pair of scissors, for example. On one blade, the pivot pin can be super t
 
 # Files 
 Below are all the files for this assignment
-
+https://github.com/JacBinon/SOHPMORE-DESIGN/blob/main/docs/assignments/A06/Bracket%20A6.SLDDRW
+https://github.com/JacBinon/SOHPMORE-DESIGN/blob/main/docs/assignments/A06/Bracket%20A6.SLDPRT
+https://github.com/JacBinon/SOHPMORE-DESIGN/blob/main/docs/assignments/A06/Ring%20thing%20A6.SLDDRW
+https://github.com/JacBinon/SOHPMORE-DESIGN/blob/main/docs/assignments/A06/Ring%20thing%20A6.SLDPRT
+https://github.com/JacBinon/SOHPMORE-DESIGN/blob/main/docs/assignments/A06/a6%20%232.pdf
+https://github.com/JacBinon/SOHPMORE-DESIGN/blob/main/docs/assignments/A06/a6.pdf
 
 
