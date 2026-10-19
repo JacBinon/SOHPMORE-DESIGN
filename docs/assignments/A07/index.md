@@ -81,3 +81,6 @@ This skeletal iteration proved highly effective. Maximum stress levels remained 
 ## Reflection
 
 This portion of the assignment effectively demonstrated load path optimization within structural members. The highest stress levels were concentrated along the outer lateral edges of the link, which support the tension path and possess the narrowest cross-sectional area. The center section was largely unstressed because the primary load transfer occurs via pure tension along the outer perimeter—analogous to a continuous cable wrapped around two pins. As long as the cross-sectional area of the outer webs remains adequate, the central material can be removed entirely with minimal impact on structural integrity.
+
+https://github.com/JacBinon/SOHPMORE-DESIGN/blob/main/docs/assignments/A07/Bracket%20A6.SLDPRT
+https://github.com/JacBinon/SOHPMORE-DESIGN/blob/main/docs/assignments/A07/Bracket%20A6.SLDPRT
